@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis Kerim Koca
+#  Bonjour, je suis Kerim Koca
 
-## 💼 Développeur Web Full-Stack | BTS SIO - Option SLAM
+##  Développeur Web Full-Stack | BTS SIO - Option SLAM
 
 Étudiant passionné par le développement web, spécialisé dans la création d'applications dynamiques avec PHP et MySQL. Actuellement en alternance chez **Abby Ambers**, où je développe des solutions web pour optimiser les processus de l'entreprise.
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,17 +27,17 @@
 
 ## 🚀 Projets phares
 
-### 🚇 [Site_RATP](https://github.com/KerimCFAINSTA/Site_RATP)
+### [DIAMANT-LUX](https://github.com/KerimCFAINSTA/DIAMANT-LUX)
+Plateforme e-commerce pour articles de luxe avec système d'authentification  
+**Tech :** `PHP` `MySQL` `Responsive Design` `Sessions PHP`
+
+###  [Site_RATP](https://github.com/KerimCFAINSTA/Site_RATP)
 Application web en architecture MVC pour la gestion de lignes de transport  
 **Tech :** `PHP` `MySQL` `HTML/CSS` `Architecture MVC`
 
-### 🩺 [Cabinet Médical](https://github.com/KerimCFAINSTA/Cabinet-médical)
+###  [Cabinet Médical](https://github.com/KerimCFAINSTA/Cabinet-médical)
 Système de gestion de rendez-vous médicaux avec interface admin  
 **Tech :** `PHP` `MySQL` `Bootstrap` `PDO`
-
-### 💎 [DIAMANT-LUX](https://github.com/KerimCFAINSTA/DIAMANT-LUX)
-Plateforme e-commerce pour articles de luxe avec système d'authentification  
-**Tech :** `PHP` `MySQL` `Responsive Design` `Sessions PHP`
 
 ### ✈️ [AIR-FRANCE](https://github.com/KerimCFAINSTA/AIR-FRANCE)
 Application de gestion de vols et réservations  
@@ -48,12 +48,10 @@ Application de gestion de vols et réservations
 ## 📚 En cours d'apprentissage
 
 - **JavaScript** : manipulation du DOM, événements, interactions dynamiques
-- **Architecture MVC** : approfondissement des bonnes pratiques
-- **Sécurité web** : protection contre injections SQL, XSS
-
+- 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 ![Kerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerimCFAINSTA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -61,7 +59,7 @@ Application de gestion de vols et réservations
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-koca-499688279/)
