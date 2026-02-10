@@ -25,9 +25,9 @@
 
 ---
 
-## 🚀 Projets phares
+## Projets phares
 
-### [DIAMANT-LUX](https://github.com/KerimCFAINSTA/DIAMANT-LUX)
+### [DIAMANT-LUX](https://github.com/KerimCFAINSTA/DIAMON)
 Plateforme e-commerce pour articles de luxe avec système d'authentification  
 **Tech :** `PHP` `MySQL` `Responsive Design` `Sessions PHP`
 
@@ -39,13 +39,13 @@ Application web en architecture MVC pour la gestion de lignes de transport
 Système de gestion de rendez-vous médicaux avec interface admin  
 **Tech :** `PHP` `MySQL` `Bootstrap` `PDO`
 
-### ✈️ [AIR-FRANCE](https://github.com/KerimCFAINSTA/AIR-FRANCE)
+### [AIR-FRANCE](https://github.com/KerimCFAINSTA/AIR-FRANCE)
 Application de gestion de vols et réservations  
 **Tech :** `PHP` `MySQL` `HTML/CSS`
 
 ---
 
-## 📚 En cours d'apprentissage
+## En cours d'apprentissage
 
 - **JavaScript** : manipulation du DOM, événements, interactions dynamiques
 - 
