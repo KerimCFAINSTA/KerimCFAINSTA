@@ -75,19 +75,12 @@ Application de gestion de vols et réservations
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Kerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerimCFAINSTA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KerimCFAINSTA&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Me contacter
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://kocait.fr)
 [![WebkMAgency](https://img.shields.io/badge/-WebkMAgency-FF6B35?style=flat-square&logo=google-chrome&logoColor=white)](https://webkmagency.fr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-koca-499688279/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kocakerim98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-koca75/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kocakerimpro@gmail.com)
 
 ---
 
